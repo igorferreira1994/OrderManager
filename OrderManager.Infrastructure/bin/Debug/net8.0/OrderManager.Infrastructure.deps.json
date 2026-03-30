@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "OrderManager.Infrastructure/1.0.0": {
+        "dependencies": {
+          "OrderManager.Domain": "1.0.0"
+        },
+        "runtime": {
+          "OrderManager.Infrastructure.dll": {}
+        }
+      },
+      "OrderManager.Domain/1.0.0": {
+        "runtime": {
+          "OrderManager.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OrderManager.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OrderManager.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

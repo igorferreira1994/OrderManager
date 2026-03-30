@@ -1,0 +1,15 @@
+C:\Users\Igor\source\repos\OrderManager\OrderManager.Infrastructure\bin\Debug\net8.0\OrderManager.Infrastructure.deps.json
+C:\Users\Igor\source\repos\OrderManager\OrderManager.Infrastructure\bin\Debug\net8.0\OrderManager.Infrastructure.dll
+C:\Users\Igor\source\repos\OrderManager\OrderManager.Infrastructure\bin\Debug\net8.0\OrderManager.Infrastructure.pdb
+C:\Users\Igor\source\repos\OrderManager\OrderManager.Infrastructure\bin\Debug\net8.0\OrderManager.Domain.dll
+C:\Users\Igor\source\repos\OrderManager\OrderManager.Infrastructure\bin\Debug\net8.0\OrderManager.Domain.pdb
+C:\Users\Igor\source\repos\OrderManager\OrderManager.Infrastructure\obj\Debug\net8.0\OrderManager.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Igor\source\repos\OrderManager\OrderManager.Infrastructure\obj\Debug\net8.0\OrderManager.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\source\repos\OrderManager\OrderManager.Infrastructure\obj\Debug\net8.0\OrderManager.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Igor\source\repos\OrderManager\OrderManager.Infrastructure\obj\Debug\net8.0\OrderManager.Infrastructure.AssemblyInfo.cs
+C:\Users\Igor\source\repos\OrderManager\OrderManager.Infrastructure\obj\Debug\net8.0\OrderManager.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Igor\source\repos\OrderManager\OrderManager.Infrastructure\obj\Debug\net8.0\OrderMan.990A0F9B.Up2Date
+C:\Users\Igor\source\repos\OrderManager\OrderManager.Infrastructure\obj\Debug\net8.0\OrderManager.Infrastructure.dll
+C:\Users\Igor\source\repos\OrderManager\OrderManager.Infrastructure\obj\Debug\net8.0\refint\OrderManager.Infrastructure.dll
+C:\Users\Igor\source\repos\OrderManager\OrderManager.Infrastructure\obj\Debug\net8.0\OrderManager.Infrastructure.pdb
+C:\Users\Igor\source\repos\OrderManager\OrderManager.Infrastructure\obj\Debug\net8.0\ref\OrderManager.Infrastructure.dll

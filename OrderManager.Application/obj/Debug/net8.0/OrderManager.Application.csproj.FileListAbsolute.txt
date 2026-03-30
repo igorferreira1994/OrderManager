@@ -1,0 +1,15 @@
+C:\Users\Igor\source\repos\OrderManager\OrderManager.Application\bin\Debug\net8.0\OrderManager.Application.deps.json
+C:\Users\Igor\source\repos\OrderManager\OrderManager.Application\bin\Debug\net8.0\OrderManager.Application.dll
+C:\Users\Igor\source\repos\OrderManager\OrderManager.Application\bin\Debug\net8.0\OrderManager.Application.pdb
+C:\Users\Igor\source\repos\OrderManager\OrderManager.Application\bin\Debug\net8.0\OrderManager.Domain.dll
+C:\Users\Igor\source\repos\OrderManager\OrderManager.Application\bin\Debug\net8.0\OrderManager.Domain.pdb
+C:\Users\Igor\source\repos\OrderManager\OrderManager.Application\obj\Debug\net8.0\OrderManager.Application.csproj.AssemblyReference.cache
+C:\Users\Igor\source\repos\OrderManager\OrderManager.Application\obj\Debug\net8.0\OrderManager.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\source\repos\OrderManager\OrderManager.Application\obj\Debug\net8.0\OrderManager.Application.AssemblyInfoInputs.cache
+C:\Users\Igor\source\repos\OrderManager\OrderManager.Application\obj\Debug\net8.0\OrderManager.Application.AssemblyInfo.cs
+C:\Users\Igor\source\repos\OrderManager\OrderManager.Application\obj\Debug\net8.0\OrderManager.Application.csproj.CoreCompileInputs.cache
+C:\Users\Igor\source\repos\OrderManager\OrderManager.Application\obj\Debug\net8.0\OrderMan.5BEBF279.Up2Date
+C:\Users\Igor\source\repos\OrderManager\OrderManager.Application\obj\Debug\net8.0\OrderManager.Application.dll
+C:\Users\Igor\source\repos\OrderManager\OrderManager.Application\obj\Debug\net8.0\refint\OrderManager.Application.dll
+C:\Users\Igor\source\repos\OrderManager\OrderManager.Application\obj\Debug\net8.0\OrderManager.Application.pdb
+C:\Users\Igor\source\repos\OrderManager\OrderManager.Application\obj\Debug\net8.0\ref\OrderManager.Application.dll

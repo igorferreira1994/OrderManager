@@ -1,0 +1,282 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Igor\\source\\repos\\OrderManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5446B20D-CCD4-4BCD-B409-265C19BDED92}|OrderManager\\OrderManager.API.csproj|c:\\users\\igor\\source\\repos\\ordermanager\\ordermanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5446B20D-CCD4-4BCD-B409-265C19BDED92}|OrderManager\\OrderManager.API.csproj|solutionrelative:ordermanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5446B20D-CCD4-4BCD-B409-265C19BDED92}|OrderManager\\OrderManager.API.csproj|c:\\users\\igor\\source\\repos\\ordermanager\\ordermanager\\ordermanager.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{5446B20D-CCD4-4BCD-B409-265C19BDED92}|OrderManager\\OrderManager.API.csproj|solutionrelative:ordermanager\\ordermanager.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35FDEDC6-7FCF-49DF-BA7E-ECDF9DDD4AD8}|OrderManager.UnitTests\\OrderManager.UnitTests.csproj|c:\\users\\igor\\source\\repos\\ordermanager\\ordermanager.unittests\\pedidoappservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35FDEDC6-7FCF-49DF-BA7E-ECDF9DDD4AD8}|OrderManager.UnitTests\\OrderManager.UnitTests.csproj|solutionrelative:ordermanager.unittests\\pedidoappservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35FDEDC6-7FCF-49DF-BA7E-ECDF9DDD4AD8}|OrderManager.UnitTests\\OrderManager.UnitTests.csproj|c:\\users\\igor\\source\\repos\\ordermanager\\ordermanager.unittests\\pedidotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35FDEDC6-7FCF-49DF-BA7E-ECDF9DDD4AD8}|OrderManager.UnitTests\\OrderManager.UnitTests.csproj|solutionrelative:ordermanager.unittests\\pedidotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5446B20D-CCD4-4BCD-B409-265C19BDED92}|OrderManager\\OrderManager.API.csproj|c:\\users\\igor\\source\\repos\\ordermanager\\ordermanager\\controllers\\pedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5446B20D-CCD4-4BCD-B409-265C19BDED92}|OrderManager\\OrderManager.API.csproj|solutionrelative:ordermanager\\controllers\\pedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016036CC-BFE2-473A-9531-EBE05D506022}|OrderManager.Application\\OrderManager.Application.csproj|c:\\users\\igor\\source\\repos\\ordermanager\\ordermanager.application\\common\\taxprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{016036CC-BFE2-473A-9531-EBE05D506022}|OrderManager.Application\\OrderManager.Application.csproj|solutionrelative:ordermanager.application\\common\\taxprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016036CC-BFE2-473A-9531-EBE05D506022}|OrderManager.Application\\OrderManager.Application.csproj|c:\\users\\igor\\source\\repos\\ordermanager\\ordermanager.application\\services\\pedidoappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{016036CC-BFE2-473A-9531-EBE05D506022}|OrderManager.Application\\OrderManager.Application.csproj|solutionrelative:ordermanager.application\\services\\pedidoappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C66E5CFD-9B17-416C-BAE0-5A4B77ED9ABD}|OrderManager.Infrastructure\\OrderManager.Infrastructure.csproj|c:\\users\\igor\\source\\repos\\ordermanager\\ordermanager.infrastructure\\repository\\pedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C66E5CFD-9B17-416C-BAE0-5A4B77ED9ABD}|OrderManager.Infrastructure\\OrderManager.Infrastructure.csproj|solutionrelative:ordermanager.infrastructure\\repository\\pedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016036CC-BFE2-473A-9531-EBE05D506022}|OrderManager.Application\\OrderManager.Application.csproj|c:\\users\\igor\\source\\repos\\ordermanager\\ordermanager.application\\interfaces\\itaxprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{016036CC-BFE2-473A-9531-EBE05D506022}|OrderManager.Application\\OrderManager.Application.csproj|solutionrelative:ordermanager.application\\interfaces\\itaxprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016036CC-BFE2-473A-9531-EBE05D506022}|OrderManager.Application\\OrderManager.Application.csproj|c:\\users\\igor\\source\\repos\\ordermanager\\ordermanager.application\\interfaces\\ipedidoappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{016036CC-BFE2-473A-9531-EBE05D506022}|OrderManager.Application\\OrderManager.Application.csproj|solutionrelative:ordermanager.application\\interfaces\\ipedidoappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{082FAC2C-BA46-4B7C-9609-8C3C7BAA8C54}|OrderManager.Domain\\OrderManager.Domain.csproj|c:\\users\\igor\\source\\repos\\ordermanager\\ordermanager.domain\\taxstrategies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{082FAC2C-BA46-4B7C-9609-8C3C7BAA8C54}|OrderManager.Domain\\OrderManager.Domain.csproj|solutionrelative:ordermanager.domain\\taxstrategies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{082FAC2C-BA46-4B7C-9609-8C3C7BAA8C54}|OrderManager.Domain\\OrderManager.Domain.csproj|c:\\users\\igor\\source\\repos\\ordermanager\\ordermanager.domain\\interfaces\\ipedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{082FAC2C-BA46-4B7C-9609-8C3C7BAA8C54}|OrderManager.Domain\\OrderManager.Domain.csproj|solutionrelative:ordermanager.domain\\interfaces\\ipedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{082FAC2C-BA46-4B7C-9609-8C3C7BAA8C54}|OrderManager.Domain\\OrderManager.Domain.csproj|c:\\users\\igor\\source\\repos\\ordermanager\\ordermanager.domain\\interfaces\\itaxstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{082FAC2C-BA46-4B7C-9609-8C3C7BAA8C54}|OrderManager.Domain\\OrderManager.Domain.csproj|solutionrelative:ordermanager.domain\\interfaces\\itaxstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{082FAC2C-BA46-4B7C-9609-8C3C7BAA8C54}|OrderManager.Domain\\OrderManager.Domain.csproj|c:\\users\\igor\\source\\repos\\ordermanager\\ordermanager.domain\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{082FAC2C-BA46-4B7C-9609-8C3C7BAA8C54}|OrderManager.Domain\\OrderManager.Domain.csproj|solutionrelative:ordermanager.domain\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{082FAC2C-BA46-4B7C-9609-8C3C7BAA8C54}|OrderManager.Domain\\OrderManager.Domain.csproj|c:\\users\\igor\\source\\repos\\ordermanager\\ordermanager.domain\\dinheiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{082FAC2C-BA46-4B7C-9609-8C3C7BAA8C54}|OrderManager.Domain\\OrderManager.Domain.csproj|solutionrelative:ordermanager.domain\\dinheiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 321,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderManager.API",
+              "DocumentMoniker": "C:\\Users\\Igor\\source\\repos\\OrderManager\\OrderManager\\OrderManager.API.csproj",
+              "RelativeDocumentMoniker": "OrderManager\\OrderManager.API.csproj",
+              "ToolTip": "C:\\Users\\Igor\\source\\repos\\OrderManager\\OrderManager\\OrderManager.API.csproj",
+              "RelativeToolTip": "OrderManager\\OrderManager.API.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-30T19:03:13.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PedidoAppServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\Igor\\source\\repos\\OrderManager\\OrderManager.UnitTests\\PedidoAppServiceTests.cs",
+              "RelativeDocumentMoniker": "OrderManager.UnitTests\\PedidoAppServiceTests.cs",
+              "ToolTip": "C:\\Users\\Igor\\source\\repos\\OrderManager\\OrderManager.UnitTests\\PedidoAppServiceTests.cs",
+              "RelativeToolTip": "OrderManager.UnitTests\\PedidoAppServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T18:55:36.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Igor\\source\\repos\\OrderManager\\OrderManager\\Program.cs",
+              "RelativeDocumentMoniker": "OrderManager\\Program.cs",
+              "ToolTip": "C:\\Users\\Igor\\source\\repos\\OrderManager\\OrderManager\\Program.cs",
+              "RelativeToolTip": "OrderManager\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T18:37:27.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PedidoTests.cs",
+              "DocumentMoniker": "C:\\Users\\Igor\\source\\repos\\OrderManager\\OrderManager.UnitTests\\PedidoTests.cs",
+              "RelativeDocumentMoniker": "OrderManager.UnitTests\\PedidoTests.cs",
+              "ToolTip": "C:\\Users\\Igor\\source\\repos\\OrderManager\\OrderManager.UnitTests\\PedidoTests.cs",
+              "RelativeToolTip": "OrderManager.UnitTests\\PedidoTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T18:54:27.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PedidosController.cs",
+              "DocumentMoniker": "C:\\Users\\Igor\\source\\repos\\OrderManager\\OrderManager\\Controllers\\PedidosController.cs",
+              "RelativeDocumentMoniker": "OrderManager\\Controllers\\PedidosController.cs",
+              "ToolTip": "C:\\Users\\Igor\\source\\repos\\OrderManager\\OrderManager\\Controllers\\PedidosController.cs",
+              "RelativeToolTip": "OrderManager\\Controllers\\PedidosController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T18:36:28.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PedidoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Igor\\source\\repos\\OrderManager\\OrderManager.Infrastructure\\Repository\\PedidoRepository.cs",
+              "RelativeDocumentMoniker": "OrderManager.Infrastructure\\Repository\\PedidoRepository.cs",
+              "ToolTip": "C:\\Users\\Igor\\source\\repos\\OrderManager\\OrderManager.Infrastructure\\Repository\\PedidoRepository.cs",
+              "RelativeToolTip": "OrderManager.Infrastructure\\Repository\\PedidoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T18:35:45.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaxProvider.cs",
+              "DocumentMoniker": "C:\\Users\\Igor\\source\\repos\\OrderManager\\OrderManager.Application\\Common\\TaxProvider.cs",
+              "RelativeDocumentMoniker": "OrderManager.Application\\Common\\TaxProvider.cs",
+              "ToolTip": "C:\\Users\\Igor\\source\\repos\\OrderManager\\OrderManager.Application\\Common\\TaxProvider.cs",
+              "RelativeToolTip": "OrderManager.Application\\Common\\TaxProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T18:33:52.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PedidoAppService.cs",
+              "DocumentMoniker": "C:\\Users\\Igor\\source\\repos\\OrderManager\\OrderManager.Application\\Services\\PedidoAppService.cs",
+              "RelativeDocumentMoniker": "OrderManager.Application\\Services\\PedidoAppService.cs",
+              "ToolTip": "C:\\Users\\Igor\\source\\repos\\OrderManager\\OrderManager.Application\\Services\\PedidoAppService.cs",
+              "RelativeToolTip": "OrderManager.Application\\Services\\PedidoAppService.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAuwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T18:32:14.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ITaxProvider.cs",
+              "DocumentMoniker": "C:\\Users\\Igor\\source\\repos\\OrderManager\\OrderManager.Application\\Interfaces\\ITaxProvider.cs",
+              "RelativeDocumentMoniker": "OrderManager.Application\\Interfaces\\ITaxProvider.cs",
+              "ToolTip": "C:\\Users\\Igor\\source\\repos\\OrderManager\\OrderManager.Application\\Interfaces\\ITaxProvider.cs",
+              "RelativeToolTip": "OrderManager.Application\\Interfaces\\ITaxProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T18:31:23.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IPedidoAppService.cs",
+              "DocumentMoniker": "C:\\Users\\Igor\\source\\repos\\OrderManager\\OrderManager.Application\\Interfaces\\IPedidoAppService.cs",
+              "RelativeDocumentMoniker": "OrderManager.Application\\Interfaces\\IPedidoAppService.cs",
+              "ToolTip": "C:\\Users\\Igor\\source\\repos\\OrderManager\\OrderManager.Application\\Interfaces\\IPedidoAppService.cs",
+              "RelativeToolTip": "OrderManager.Application\\Interfaces\\IPedidoAppService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T18:31:08.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TaxStrategies.cs",
+              "DocumentMoniker": "C:\\Users\\Igor\\source\\repos\\OrderManager\\OrderManager.Domain\\TaxStrategies.cs",
+              "RelativeDocumentMoniker": "OrderManager.Domain\\TaxStrategies.cs",
+              "ToolTip": "C:\\Users\\Igor\\source\\repos\\OrderManager\\OrderManager.Domain\\TaxStrategies.cs",
+              "RelativeToolTip": "OrderManager.Domain\\TaxStrategies.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T18:30:12.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IPedidoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Igor\\source\\repos\\OrderManager\\OrderManager.Domain\\Interfaces\\IPedidoRepository.cs",
+              "RelativeDocumentMoniker": "OrderManager.Domain\\Interfaces\\IPedidoRepository.cs",
+              "ToolTip": "C:\\Users\\Igor\\source\\repos\\OrderManager\\OrderManager.Domain\\Interfaces\\IPedidoRepository.cs",
+              "RelativeToolTip": "OrderManager.Domain\\Interfaces\\IPedidoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T18:29:20.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ITaxStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\Igor\\source\\repos\\OrderManager\\OrderManager.Domain\\Interfaces\\ITaxStrategy.cs",
+              "RelativeDocumentMoniker": "OrderManager.Domain\\Interfaces\\ITaxStrategy.cs",
+              "ToolTip": "C:\\Users\\Igor\\source\\repos\\OrderManager\\OrderManager.Domain\\Interfaces\\ITaxStrategy.cs",
+              "RelativeToolTip": "OrderManager.Domain\\Interfaces\\ITaxStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T18:29:05.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\Igor\\source\\repos\\OrderManager\\OrderManager.Domain\\Pedido.cs",
+              "RelativeDocumentMoniker": "OrderManager.Domain\\Pedido.cs",
+              "ToolTip": "C:\\Users\\Igor\\source\\repos\\OrderManager\\OrderManager.Domain\\Pedido.cs",
+              "RelativeToolTip": "OrderManager.Domain\\Pedido.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T18:28:57.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Dinheiro.cs",
+              "DocumentMoniker": "C:\\Users\\Igor\\source\\repos\\OrderManager\\OrderManager.Domain\\Dinheiro.cs",
+              "RelativeDocumentMoniker": "OrderManager.Domain\\Dinheiro.cs",
+              "ToolTip": "C:\\Users\\Igor\\source\\repos\\OrderManager\\OrderManager.Domain\\Dinheiro.cs",
+              "RelativeToolTip": "OrderManager.Domain\\Dinheiro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T18:28:46.675Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 204,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

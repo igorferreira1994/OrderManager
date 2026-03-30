@@ -1,0 +1,130 @@
+{
+  "openapi": "3.0.4",
+  "info": {
+    "title": "OrderManager.API",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/Pedidos": {
+      "post": {
+        "tags": [
+          "Pedidos"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/PedidoRequest"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/PedidoRequest"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/PedidoRequest"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "get": {
+        "tags": [
+          "Pedidos"
+        ],
+        "parameters": [
+          {
+            "name": "status",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Pedidos/{id}": {
+      "get": {
+        "tags": [
+          "Pedidos"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "ItemRequest": {
+        "type": "object",
+        "properties": {
+          "produtoId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "quantidade": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "valor": {
+            "type": "number",
+            "format": "double"
+          }
+        },
+        "additionalProperties": false
+      },
+      "PedidoRequest": {
+        "type": "object",
+        "properties": {
+          "pedidoId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "clienteId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "itens": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/ItemRequest"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "tags": [
+    {
+      "name": "Pedidos"
+    }
+  ]
+}
